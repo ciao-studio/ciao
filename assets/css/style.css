@@ -535,7 +535,7 @@ body {
   width: 400px;
   height: 540px;
   overflow: hidden;
-  background-image: url(/assets/img/invite.jpg);
+  background-image: url(assets/img/invite.jpg);
   background-position: center;
   background-size: auto 100%;
 }
@@ -606,10 +606,6 @@ body {
   .content-wrapper .content-img {
     width: 320px;
     height: 432px;
-    overflow: hidden;
-    background-image: url(assets/img/invite.jpg);
-    background-position: center;
-    background-size: auto 100%;
   }
   .content-wrapper .content-text {
     padding-left: 40px;
